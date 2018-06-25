@@ -20,12 +20,6 @@ yarn start
 yarn add --dev parcel-bundler
 ```
 
-# Build + Watch
-
-```
-yarn parcel index.html
-```
-
 # Add index.html file
 
 ```html
